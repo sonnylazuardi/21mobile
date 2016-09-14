@@ -1,3 +1,3 @@
 import App from './src/app';
 
- const app = new App();
+const app = new App();
